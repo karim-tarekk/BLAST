@@ -1,5 +1,5 @@
 # Developer:
-# Kareem Mohamed Wardany
+# Karim Tarek Emam
 # ----------------------------------------
 
 # Used Libraries
